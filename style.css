@@ -8,6 +8,11 @@ body {
     background-color: rgb(58, 55, 55);
 }
 
+button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
 button {
     width: 100px;
     height: 75px;
